@@ -11,3 +11,4 @@ This repo is private dotfiles for my mac.
 - https://github.com/koki-develop/dotfiles/tree/main 
 - https://github.com/mactkg/dotfiles/tree/master
 - https://github.com/usagiga/dotfiles/tree/96c6716b47f8d5f0f24a8b11b9434fb961b616a6
+- https://github.com/cocopon/dotfiles
